@@ -1,12 +1,13 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Introduction to Managing Users
 
 Ever heard a retailer advertise as a “one stop shop” for anything you want? The idea is they have so much stuff that whatever you want is probably there. Liferay’s Control Panel is like this. Where do you create Users, Organizations, or Sites? Where do you configure permissions and plugins and pretty much anything else? You do it from the Control Panel.
 
-![usrmgmt-ctrl-pnl](/img/usrmgmt-control-panel.png "User Management Control Panel")
-
-Figure 1: Administrators can access the Control Panel from the Product Menu.
-
-Figure 1: Administrators can access the Control Panel from the Product Menu.
+![Figure 1: Administrators can access the Control Panel from the Product Menu.](./img/usrmgmt-control-panel.png "User Management Control Panel")
 
 The Control Panel is divided into six main areas: Users, Sites, Apps, Configuration, and Workflow. The Users section lets you create and manage Users, Organizations, User Groups, Roles, and Password Policies. If monitoring has been enabled, you can also view all the live sessions of your Users.
 
