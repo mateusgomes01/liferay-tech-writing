@@ -10,7 +10,7 @@ To make things even worse, ehcache creates a replication thread for each cache e
 
 We need to fix both the 1 to N-1 network communication problem and the massive threads bottleneck. Liferay Portal has a facility called ClusterLink, which is basicly an abstract communication channel in which the default implementation uses JGroups' UDP multicast to communicate.
 
-By using ClusterLink we can fix the 1 to N-1 network communication problem easily.
+By using ClusterLink we can solve the 1 to N-1 network communication problem easily.
 
 To reduce the number of replication threads, we provide a small group of dispatching threads. They are dedicated for delivering cache cluster events to remote peers. Since all cache entity cluster events will go through one place to the network, this gives us a chance to coalesce. If two changes to the same cache object are close enough, we only need to notify remote peers once to save some network traffic. (ehcache most recent version supports JGroups replicator and fixes 1 to N-1 network communication, but it cann't fix the massive threads problem and cann't coalesce.)
 
