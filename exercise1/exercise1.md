@@ -1,6 +1,6 @@
 # Wordsmithing
 
-“The 2010's benchmark and optimization is reaching it's end, now it is time to write something about what we did in the last few months.
+“The 2010's benchmark and optimization is reaching its end, now it is time to write something about what we did in the last few months.
 
 Today we'll talk about an Enterprise Edition (EE) exclusive feature: a new ehcache cluster replication mechanism. Since this new feature is only available in the Enterprise Edition of the portal, there's no reason to go deep about implementation details. We'll focus on just some general concepts about what the problem is and how we can fix it.
 
