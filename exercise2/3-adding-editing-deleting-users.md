@@ -12,10 +12,8 @@ New users can be added in the Product Menu:
 
 ![Figure 1: Add Users from the Users and Organizations section of the Control Panel.](./img/1-user-add-edit-delete.png "Users and Organizations section")
 
-3. Click _Save_ after filling the user form to save the newly created user. It is required to provide at least a Screen Name, First Name, Last Name, and Email Address to allow the form to be saved.
-
- Note: A screen name can't contain an ```@``` symbol because it's used in the URL to a User’s private page.
-
+3. Click _Save_ after filling the user form to save the newly created user. It is required to provide at least a Screen Name, First Name, Last Name, and Email Address to allow the form to be saved.  
+ Note: A screen name can't contain an ```@``` symbol because it's used in the URL to a User’s private page.  
  The Add User functionality is split over several independent forms. Saving the first form creates the User, and then you’ll see a success message saying
 
 	Success. Your request completed successfully.
