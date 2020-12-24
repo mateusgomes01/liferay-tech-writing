@@ -70,3 +70,5 @@ After that, a success message will apear, and the User will not be displayed any
 Users can be reactivated by an administrator in the Users table. By making sure that the filter is set to _Inactive users_, click on the Actions menu of the desired user to be reactivated, and select _Activate_. The user is then automatically restored to an Active status without a confirmation window.
 
 For more information on additional topics on User Management, follow the link to the next article.
+
+Original article: https://help.liferay.com/hc/en-us/articles/360029131951-Adding-Editing-and-Deleting-Users

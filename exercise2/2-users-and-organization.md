@@ -18,3 +18,5 @@ Users and Organizations can be managed in the Control Panel, under the _Users an
 A User is an entity which can sign the portal and do various tasks, according to their current privilege. A User generally has more privileges than a Guest, the ladder which does not require a sign in. Users privileges are defined by their assigned roles.
 
 To learn more about managing, creating, deleting, editing, Users and Organizations, continue to the next section.
+
+Original article: https://help.liferay.com/hc/en-us/articles/360028721692-Users-and-Organizations
