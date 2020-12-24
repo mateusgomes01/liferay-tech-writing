@@ -12,8 +12,7 @@ New users can be added in the Product Menu:
 
 ![Figure 1: Add Users from the Users and Organizations section of the Control Panel.](./img/1-user-add-edit-delete.png "Users and Organizations section")
 
-3. Click _Save_ after filling the user form to save the newly created user. It is required to provide at least a Screen Name, First Name, Last Name, and Email Address on the User form to allow the form to be submmited.
-
+3. Click _Save_ after filling the user form to save the newly created user. It is required to provide at least a Screen Name, First Name, Last Name, and Email Address on the User form to allow the form to be submmited. 
 Note: A screen name can't contain an ```@``` symbol because it's used in the URL to a User’s private page.
 
 The Add User functionality is split over several independent forms. Saving the first form creates the User, and then you’ll see a success message saying
@@ -58,7 +57,7 @@ User deletion should be taken with care. To avoid accidental deletion of Users, 
 
 1. Select the User to delete in the Users tab of _Control Panel → Users → Users and Organizations_. In a system with many users, the search functionality helps saving time in finding the desired user to be deleted.
 
-2. Click the _Actions_ menu for the User and select _Deactivate_. A confirmation for user deactivation will show up. Click OK.
+2. Click the _Actions_ menu for the User and select _Deactivate_. A confirmation for user deactivation will show up. Click OK. 
 After that, a success message will apear, and the User will not be displayed anymore, even though he wasn't deleted yet.
 
 3. By default, the Users table displays Active users only. By Clicking on _Filter and order_ on top of the table, a dropdown menu appears. By clicking Inactive, the inactive users will show.
