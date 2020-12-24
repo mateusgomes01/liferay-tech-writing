@@ -18,7 +18,7 @@ Note: The screen name can't contain an @ symbol because it's used in the URL to 
 
 The Add User functionality is split over several independent forms. Saving the first form creates the User, and then you’ll see a success message saying
 
-	´´´Success. Your request completed successfully.´´´
+	Success. Your request completed successfully.
 
 After the first form is submited, a second form will be displayed. By default, the Information section is the first section to be selected. To the left there's a navigation pane where the current section can be switched. The user being added can be configured by going through the different sections. The tabs at the top change the options in the left menu when clicked on. It's necessary to go through the sections for the three tabs on top - General, Contact and Preferences - and fill in all the applicable information.
 
@@ -59,14 +59,13 @@ User deletion should be taken with care. To avoid accidental deletion of Users, 
 1. Select the User to delete in the Users tab of _Control Panel → Users → Users and Organizations_. In a system with many users, the search functionality helps saving time in finding the desired user to be deleted.
 
 2. Click the _Actions_ menu for the User and select _Deactivate_. A confirmation for user deactivation will show up. Click OK.
-
 After that, a success message will apear, and the User will not be displayed anymore, even though he wasn't deleted yet.
 
 3. By default, the Users table displays Active users only. By Clicking on _Filter and order_ on top of the table, a dropdown menu appears. By clicking Inactive, the inactive users will show.
 
 4. Click on the Actions menu, then click Delete, to really delete the User. Confirm the User deletion, and then the User will be permanently erased.
 
-*Deactivating a User* disables the User log in into the portal. Disabled users also lose privileges in the Sites and pages of the portal, even though the account still exists.
+**Deactivating a User** disables the User log in into the portal. Disabled users also lose privileges in the Sites and pages of the portal, even though the account still exists.
 
 Users can be reactivated by an administrator in the Users table. By making sure that the filter is set to _Inactive users_, click on the Actions menu of the desired user to be reactivated, and select _Activate_. After that, the user is automatically restored to an Active status without a confirmation window.
 
