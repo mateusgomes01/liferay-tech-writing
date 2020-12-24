@@ -13,6 +13,4 @@ The Control Panel is divided into six main areas: Users, Sites, Apps, Configurat
 
 Anonymous User: When an administrator clicks on Delete Personal Data for a User, an Anonymous user is created. An Anonymous user is a deactivated User assigned anonymized assets. The Anonymous User is configurable, so the name and configuration details might be different in your virtual instance.
 
-Begin exploring Liferay’s User Management functionality by reading about adding and editing users.
-
-Learn more about Liferay's User Management functionality by reading about adding and editing in the next section.
+Learn more about Liferay's User Management functionality by reading about Adding and Editing users in the next section.
