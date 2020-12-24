@@ -1,10 +1,10 @@
 # Adding, Editing, and Deleting Users
 
-Administrative users can add, edit and delete other users at the core of user management.
+Administrative users can add, edit and delete other users at the root of User Management.
 
 ## Adding Users
 
-You can add new users by going in the Product Menu:
+New users can be added in the Product Menu:
 
 1. From the Product Menu, go to _Control Panel → Users → Users and Organizations_.
 
@@ -12,9 +12,9 @@ You can add new users by going in the Product Menu:
 
 ![Figure 1: Add Users from the Users and Organizations section of the Control Panel.](./img/1-user-add-edit-delete.png "Users and Organizations section")
 
-3. Click Save after filling the user form to save the newly created user. It's required to provide at least a Screen Name, First Name, Last Name, and Email Address on the User form so the new user can be saved.
+3. Click _Save_ after filling the user form to save the newly created user. It is required to provide at least a Screen Name, First Name, Last Name, and Email Address on the User form to allow the form to be submmited.
 
-Note: The screen name can't contain an @ symbol because it's used in the URL to a User’s private page.
+Note: A screen name can't contain an ```@``` symbol because it's used in the URL to a User’s private page.
 
 The Add User functionality is split over several independent forms. Saving the first form creates the User, and then you’ll see a success message saying
 
@@ -65,7 +65,7 @@ After that, a success message will apear, and the User will not be displayed any
 
 4. Click on the Actions menu, then click Delete, to really delete the User. Confirm the User deletion, and then the User will be permanently erased.
 
-**Deactivating a User** disables the User log in into the portal. Disabled users also lose privileges in the Sites and pages of the portal, even though the account still exists.
+**Deactivating a User** disables the User login to the portal. Disabled users also lose privileges in the Sites and pages of the portal, even though the account still exists.
 
 Users can be reactivated by an administrator in the Users table. By making sure that the filter is set to _Inactive users_, click on the Actions menu of the desired user to be reactivated, and select _Activate_. After that, the user is automatically restored to an Active status without a confirmation window.
 
