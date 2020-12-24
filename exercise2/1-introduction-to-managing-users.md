@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Introduction to Managing Users
 
 Liferay's Control Panel allows you to create Users, Organizations, Sites, configure permissions, plugins among many other features.

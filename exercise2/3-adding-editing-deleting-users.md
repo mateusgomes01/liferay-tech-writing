@@ -10,7 +10,7 @@ You can add new users by going in the Product Menu:
 
 2. In the Users tab, click the _Add_ button .
 
-Figure 1: Add Users from the Users and Organizations section of the Control Panel.
+![Figure 1: Add Users from the Users and Organizations section of the Control Panel.](./img/1-user-add-edit-delete.png "Users and Organizations section")
 
 3. Click Save after filling the user form to save the newly created user. It's required to provide at least a Screen Name, First Name, Last Name, and Email Address on the User form so the new user can be saved.
 
@@ -22,13 +22,13 @@ The Add User functionality is split over several independent forms. Saving the f
 
 After the first form is submited, a second form will be displayed. By default, the Information section is the first section to be selected. To the left there's a navigation pane where the current section can be switched. The user being added can be configured by going through the different sections. The tabs at the top change the options in the left menu when clicked on. It's necessary to go through the sections for the three tabs on top - General, Contact and Preferences - and fill in all the applicable information.
 
-Figure 2: At a minimum, enter a screen name, email address, and first name to create a new user account. Then you'll be taken to the Information form and can continue configuring the user.
+![Figure 2: At a minimum, enter a screen name, email address, and first name to create a new user account. Then you'll be taken to the Information form and can continue configuring the user.](./img/2-user-add-edit-delete.png "Form sections")
 
 After that, when the user account is created, a password is automatically generated. If Liferay was correctly installed and a mail server was correctly set up, an email message with the User’s new password will be sent to the User’s email address.
 
 If a mail server wasn't set up, a new password can be manually setted by clicking on the _Password_ item from the General menu. The set up requires that the new password must be provided twice.
 
-Figure 3: Enter the password twice to manually set the password for a user. If the Password Policy you're using is configured to allow it, select whether to require the user to reset their password the first time they sign in to the portal.
+![Figure 3: Enter the password twice to manually set the password for a user. If the Password Policy you're using is configured to allow it, select whether to require the user to reset their password the first time they sign in to the portal.](./img/3-user-add-edit-delete.png "Set Password")
 
 ## Editing Users
 
@@ -48,7 +48,7 @@ To edit users, click on Users and Organizations in the Control Panel. A list of 
 
 * _Export Personal Data_ downloads the User’s personal data.
 
-Figure 4: You can choose whether to view active or inactive (deactivated) portal users in the users list found at *Product Menu* → *Control Panel* → *Users* → *Users and Organizations*.
+![Figure 4: You can choose whether to view active or inactive (deactivated) portal users in the users list found at *Product Menu* → *Control Panel* → *Users* → *Users and Organizations*.](./img/4-user-add-edit-delete.png "Filter")
 
 Most of the actions listed above require administrator privilege to be accessed.
 
